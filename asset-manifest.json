@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cbd96c5c.css",
+    "main.js": "./static/js/main.fc2cffcd.js",
+    "static/js/787.02e657eb.chunk.js": "./static/js/787.02e657eb.chunk.js",
+    "static/media/Metagunner.png": "./static/media/Metagunner.81ed6ce4caa8840ef41b.png",
+    "static/media/gamee_banner.png": "./static/media/gamee_banner.d9a143479870643d6092.png",
+    "static/media/LOGO_KOG.png": "./static/media/LOGO_KOG.f2269cd15038a7df396b.png",
+    "static/media/Arena_Mode.webp": "./static/media/Arena_Mode.1cf2f21f0e902f043862.webp",
+    "static/media/PHUOC.webp": "./static/media/PHUOC.6252803773fed434ec0c.webp",
+    "static/media/MINH.webp": "./static/media/MINH.9a4524dab2ad74138563.webp",
+    "static/media/MEO.webp": "./static/media/MEO.256e07f1278c6b40c2a6.webp",
+    "static/media/HO-ANH.webp": "./static/media/HO-ANH.64f31e15e753a0f5e41d.webp",
+    "static/media/bg1.png": "./static/media/bg1.1856d2fbf989109fc76e.png",
+    "static/media/PHU.webp": "./static/media/PHU.27bd6e87991e2fd66081.webp",
+    "static/media/THIEN.webp": "./static/media/THIEN.dd9b2b27ce802d697ffa.webp",
+    "static/media/AN.webp": "./static/media/AN.c0724a505a792e80fde7.webp",
+    "static/media/DUONG.webp": "./static/media/DUONG.fd0d97af3ee1cfd231ae.webp",
+    "static/media/TAN.webp": "./static/media/TAN.3daab90d3a5a0d2c7ef1.webp",
+    "static/media/bg_1-2.jpg": "./static/media/bg_1-2.cef01d715d56f996e000.jpg",
+    "static/media/orange_button.webp": "./static/media/orange_button.40c492009d071f6439a9.webp",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/iconwebsite.svg": "./static/media/iconwebsite.d0b054cc1b822a49d4b829be5d0bc675.svg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/githubbbb.svg": "./static/media/githubbbb.484652522912c95111c75544a28194b4.svg",
+    "static/media/discord.svg": "./static/media/discord.d7161d9f24e343c70b75e8bdcd3a93ee.svg",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/telegram.svg": "./static/media/telegram.7f13590c59b98808394e3b6ddc68e29a.svg",
+    "static/media/facebook.svg": "./static/media/facebook.a19f64751152e4d7a56aa8af7df48fe4.svg",
+    "static/media/twitter.svg": "./static/media/twitter.c2d86b73caa3b81a7deb357a11398710.svg",
+    "index.html": "./index.html",
+    "static/media/medium.svg": "./static/media/medium.fc15dad0da96242f3f7736e7f9fe4b53.svg",
+    "main.cbd96c5c.css.map": "./static/css/main.cbd96c5c.css.map",
+    "main.fc2cffcd.js.map": "./static/js/main.fc2cffcd.js.map",
+    "787.02e657eb.chunk.js.map": "./static/js/787.02e657eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd96c5c.css",
+    "static/js/main.fc2cffcd.js"
+  ]
+}
